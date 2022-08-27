@@ -31,7 +31,7 @@ Se desarrollo una aplicacion Android en Kotlin, para la ONG "Somos Más", utiliz
  - Firebase 
     - Analytics
     - Auth (Facebook/Google)
- - Login Tradicional - [API](https://oscarnovas.com)
+ - Login Tradicional - [API](https://ongapi.alkemy.org/)
  - Test Unitarios 
     - Mockk
  - Glide
