@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/55109470/187046348-e93f11b6-bbc4-466a-bf2d-6d624a767224.png)
 
 ## 📱 **Proyecto** 📱 
-Se desarrollo una aplicacion Android en Kotlin, para la ONG "Somos Más", utilizando como metodologia agil SCRUM, en un entorno de trabajo de 5 integrantes y un Team-Leader, y Jira como herramienta de gestion de proyecto.
+Se desarrollo una aplicacion Android en Kotlin, para la ONG "Somos Más", utilizando como metodologia agil SCRUM, con un equipo de trabajo de 5 integrantes y un Team-Leader, y Jira como herramienta de gestion de proyecto.
 
 ## 🙋‍♂️ **Integrantes - Linkedin** 🙋‍♀️
  - Mentor: [Leandro Alvarez](https://www.linkedin.com/in/leandro-alvarez/)
