@@ -22,6 +22,7 @@ Se desarrollo una aplicacion Android en Kotlin, para la ONG "Somos Más", utiliz
  - Git y GitHub
  - MVVM 
  - Clean architecture
+ - SOLID principles
  - Live Data
  - dataBinding
  - Retrofit
